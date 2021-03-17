@@ -1,6 +1,6 @@
 body
 {
-    color: #333;
+    color: #37488b;
     text-align: center;
     font-family: "Open Sans";
     font-size: 16px;
@@ -41,4 +41,11 @@ body
 #post
 {
     padding: 1em;
+}
+#footer
+{
+    background: #37488b;
+    color: white;
+    text-align: center;
+    padding: 0.5em;
 }
